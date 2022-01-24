@@ -50,4 +50,4 @@ country[2] === 'g' ? console.log('Yes the 3rd character is g') : console.log('No
 console.log(`${country[7]} is the character at position 8`);
 
 // problem10
-country.length > 10 ? console.log(`yes ${country} have 10 or lower then 10 character`) : console.log(`No ${country} does not have more then 10 character`);
+country.length > 10 ? console.log(`yes ${country} have 10 or grater then 10 character`) : console.log(`No ${country} does not have more then 10 character`);
